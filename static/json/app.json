@@ -1,0 +1,157 @@
+{
+  "name": "inovatech",
+  "description": "3d printers",
+  "phone": "+375(29) 777 22 99",
+  "email": "inovatech.by@gmail.com",
+  "footer_text": "Copyright © 2018 НП ООО «Иноватех». Все права защищены.",
+
+  "printers": {
+    "3d-printer-1": {
+      "title": "3d принтер 1",
+      "description_short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+      "image": "/static/images/printer.jpg",
+      "price": "700,00 руб"
+    },
+
+    "3d-printer-2": {
+      "title": "3d принтер 2",
+      "description_short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+      "image": "/static/images/printer.jpg",
+      "price": "700,00 руб"
+    },
+
+    "3d-printer-3": {
+      "title": "3d принтер 3",
+      "description_short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+      "image": "/static/images/printer.jpg",
+      "price": "700,00 руб"
+    },
+
+    "3d-printer-4": {
+      "title": "3d принтер 4",
+      "description_short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor ",
+      "image": "/static/images/printer.jpg",
+      "price": "700,00 руб"
+    }
+  },
+
+  "pens": {
+    "3d-pen-1": {
+      "title": "3d ручка 1",
+      "description_short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+      "image": "/static/images/printer.jpg",
+      "price": "700,00 руб"
+    },
+
+    "3d-pen-2": {
+      "title": "3d ручка 2",
+      "description_short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+      "image": "/static/images/printer.jpg",
+      "price": "700,00 руб"
+    },
+
+    "3d-pen-3": {
+      "title": "3d ручка 3",
+      "description_short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+      "image": "/static/images/printer.jpg",
+      "price": "700,00 руб"
+    },
+
+    "3d-pen-4": {
+      "title": "3d ручка 4",
+      "description_short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor ",
+      "image": "/static/images/printer.jpg",
+      "price": "700,00 руб"
+    }
+  },
+
+  "plastics": {
+    "plastic-1":{
+      "title": "пластик 1",
+      "description_short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+      "image": "/static/images/printer.jpg",
+      "price": "10,00 руб"
+    },
+
+    "plastic-2": {
+      "title": "пластик 2",
+      "description_short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+      "image": "/static/images/printer.jpg",
+      "price": "10,00 руб"
+    },
+
+    "plastic-3": {
+      "title": "пластик 3",
+      "description_short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+      "image": "/static/images/printer.jpg",
+      "price": "10,00 руб"
+    }
+  },
+
+  "parts": {
+    "part-1": {
+      "title": "запчасть 1",
+      "description_short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+      "image": "/static/images/printer.jpg",
+      "price": "10,00 руб"
+    },
+
+   "part-2":  {
+      "title": "запчасть 2",
+      "description_short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+      "image": "/static/images/printer.jpg",
+      "price": "10,00 руб"
+    },
+
+    "part-3": {
+      "title": "запчасть 3",
+      "description_short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+      "image": "/static/images/printer.jpg",
+      "price": "10,00 руб"
+    },
+
+    "part-4": {
+      "title": "запчасть 4",
+      "description_short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+      "image": "/static/images/printer.jpg",
+      "price": "10,00 руб"
+    },
+
+    "part-5": {
+      "title": "запчасть 5",
+      "description_short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+      "image": "/static/images/printer.jpg",
+      "price": "10,00 руб"
+    },
+
+    "part-6": {
+      "title": "запчасть 6",
+      "description_short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+      "image": "/static/images/printer.jpg",
+      "price": "10,00 руб"
+    }
+  },
+
+  "services": {
+    "title": "Услуги 3D печати",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
+    "image": "/static/images/hulk.jpg"
+  }
+}
