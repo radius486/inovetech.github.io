@@ -5,6 +5,13 @@
   "email": "inovatech.by@gmail.com",
   "footer_text": "Copyright © 2018 НП ООО «Иноватех». Все права защищены.",
 
+  "carousel_slides": [
+    "/static/images/banner1.jpg",
+    "/static/images/banner2.jpg",
+    "/static/images/banner1.jpg",
+    "/static/images/banner2.jpg"
+  ],
+
   "printers": {
     "3d-printer-1": {
       "title": "3d принтер 1",
