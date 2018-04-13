@@ -52,6 +52,7 @@
       "description_short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
       "image": "/static/images/printer.jpg",
+      "color": "black",
       "price": "700,00 руб"
     },
 
@@ -60,6 +61,7 @@
       "description_short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
       "image": "/static/images/printer.jpg",
+      "color": "red",
       "price": "700,00 руб"
     },
 
@@ -68,6 +70,7 @@
       "description_short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
       "image": "/static/images/printer.jpg",
+      "color": "blue",
       "price": "700,00 руб"
     },
 
@@ -76,6 +79,7 @@
       "description_short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor ",
       "image": "/static/images/printer.jpg",
+      "color": "green",
       "price": "700,00 руб"
     }
   },
@@ -86,6 +90,7 @@
       "description_short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
       "image": "/static/images/printer.jpg",
+      "color": "black",
       "price": "10,00 руб"
     },
 
@@ -94,6 +99,7 @@
       "description_short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
       "image": "/static/images/printer.jpg",
+      "color": "green",
       "price": "10,00 руб"
     },
 
@@ -102,6 +108,7 @@
       "description_short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
       "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
       "image": "/static/images/printer.jpg",
+      "color": "yellow",
       "price": "10,00 руб"
     }
   },
