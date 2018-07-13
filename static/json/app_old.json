@@ -12,56 +12,23 @@
     "/static/images/banner2.jpg"
   ],
 
-  "contacts": {
-    "title": "Контактная информация",
-    "company": "НП ООО «Иноватех»",
-    "unp": "УНП 690669738",
-    "phones": "+375 (29) 777 22 99</br> +375 (44) 777 22 99</br> +375 (25) 777 22 99",
-    "email": "inovatech.by@gmail.com",
-    "address": "Республика Беларусь, Минская обл., Минский р-н, д.Боровляны, ул.40 лет Победы, д.27, корп.4, комн.401",
-    "workingTime": "Режим работы: 09:00 - 17:00"
-  },
-
-  "feedback_messages": {
-    "success": "Ваше сообщение отправлено. В ближайшее время с Вами свяжется оператор.",
-    "error": "К сожалению, при отправке сообщения произошла ошибка. Попробуйте ещё раз. Или перезвоните нам.",
-    "warning": "Выделенные поля содержат недопустимые символы либо ошибки. Отредактируйте пожалуйста поля и повторите отправку."
-  },
-
-  "notfound_text": "Запрашиваемая страница не найдена",
-
   "printers": {
     "3d-printer-1": {
-      "title": "3d принтер 1",
-      "description_short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
-      "image": "/static/images/printer.jpg",
+      "title": "CapaBel",
+      "description_short": "Delta",
+      "description": "Зона печати - 200*200*200 мм <br>Материал - ABS, PLA, Нейлон, SBS и т.д. <br>Платформа - с подогревом <br>Разрешение печати - 50 микрон <br>Диаметр сопла - 0,4 мм <br>Скорость печати - 80 мм/сек <br>Диаметр нити - 1,75 мм",
+      "image": "/static/images/delta1.jpg",
       "price": "700,00 руб"
     },
 
     "3d-printer-2": {
-      "title": "3d принтер 2",
-      "description_short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
-      "image": "/static/images/printer.jpg",
+      "title": "CapaBel",
+      "description_short": "Cartesian",
+      "description": "Зона печати - 200*200*200 мм <br>Материал - PLA <br>Платформа - без подогрева <br>Разрешение печати - 50 микрон <br>Диаметр сопла - 0,4 мм <br>Скорость печати - 120 мм/сек <br>Диаметр нити - 1,75 мм",
+      "image": "/static/images/1.jpg",
       "price": "700,00 руб"
     },
 
-    "3d-printer-3": {
-      "title": "3d принтер 3",
-      "description_short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
-      "image": "/static/images/printer.jpg",
-      "price": "700,00 руб"
-    },
-
-    "3d-printer-4": {
-      "title": "3d принтер 4",
-      "description_short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor ",
-      "image": "/static/images/printer.jpg",
-      "price": "700,00 руб"
-    }
   },
 
 
@@ -184,7 +151,7 @@
       "description": "ABS пластик используется для 3D печати. <br>Длина 10 м;<br> Диаметр 1,75 мм;<br> Доставка осуществляется в zip-пакете. <br>Подходит как для 3D принтера, так и для 3D ручек. <br>Бесплатная доставка в пределах кольцевой г. Минска при заказе от 50 руб.",
       "image": "/static/images/abs-black.jpg",
       "color": "черный",
-      "price": "2,50 руб"
+      "price": "1,40 руб"
     },
 
     "plastic-10": {
@@ -193,7 +160,7 @@
       "description": "ABS пластик используется для 3D печати. <br>Длина 10 м;<br> Диаметр 1,75 мм;<br> Доставка осуществляется в zip-пакете. <br>Подходит как для 3D принтера, так и для 3D ручек. <br>Бесплатная доставка в пределах кольцевой г. Минска при заказе от 50 руб.",
       "image": "/static/images/abs-blue.jpg",
       "color": "голубой",
-      "price": "2,50 руб"
+      "price": "1,40 руб"
     },
 
     "plastic-11": {
@@ -202,7 +169,7 @@
       "description": "PLA пластик используется для 3D печати. <br>Длина 10 м;<br> Диаметр 1,75 мм;<br> Доставка осуществляется в zip-пакете. <br>Подходит как для 3D принтера, так и для 3D ручек. <br>Бесплатная доставка в пределах кольцевой г. Минска при заказе от 50 руб.",
       "image": "/static/images/pla-yellow.jpg",
       "color": "желтый",
-      "price": "3,50 руб"
+      "price": "1,90 руб"
     },
 
     "plastic-12": {
@@ -211,7 +178,7 @@
       "description": "PLA пластик используется для 3D печати. <br>Длина 10 м;<br> Диаметр 1,75 мм;<br> Доставка осуществляется в zip-пакете. <br>Подходит как для 3D принтера, так и для 3D ручек. <br>Бесплатная доставка в пределах кольцевой г. Минска при заказе от 50 руб.",
       "image": "/static/images/pla-white.jpg",
       "color": "белый",
-      "price": "3,50 руб"
+      "price": "1,90 руб"
     },
 
 
@@ -235,7 +202,7 @@
 
     "plastic-15": {
       "title": "PLA пластик 750 гр",
-      "description_short": "Бирюзовый PLA пластик 750 гр",
+      "description_short": "<Бирюзовый PLA пластик 750 гр",
       "description": "PLA пластик используется для 3D печати. <br>Вес 750 гр;<br> Диаметр 1,75 мм. <br>Подходит как для 3D принтера, так и для 3D ручек. <br>Бесплатная доставка в пределах кольцевой г. Минска при заказе от 50 руб.",
       "image": "/static/images/k-pla-turquoise.jpg",
       "color": "бирюзовый",
@@ -294,7 +261,7 @@
       "description": "ABS пластик используется для 3D печати. <br>Длина 10 м;<br> Диаметр 1,75 мм;<br> Доставка осуществляется в zip-пакете. <br>Подходит как для 3D принтера, так и для 3D ручек. <br>Бесплатная доставка в пределах кольцевой г. Минска при заказе от 50 руб.",
       "image": "/static/images/abs-brown.jpg",
       "color": "коричневый",
-      "price": "2,50 руб"
+      "price": "1,40 руб"
     },
 
     "plastic-22": {
@@ -303,7 +270,7 @@
       "description": "ABS пластик используется для 3D печати. <br>Длина 10 м;<br> Диаметр 1,75 мм;<br> Доставка осуществляется в zip-пакете. <br>Подходит как для 3D принтера, так и для 3D ручек. <br>Бесплатная доставка в пределах кольцевой г. Минска при заказе от 50 руб.",
       "image": "/static/images/abs-darkblue.jpg",
       "color": "синий",
-      "price": "2,50 руб"
+      "price": "1,40 руб"
     },
 
     "plastic-23": {
@@ -312,7 +279,7 @@
       "description": "PLA пластик используется для 3D печати. <br>Длина 10 м;<br> Диаметр 1,75 мм;<br> Доставка осуществляется в zip-пакете. <br>Подходит как для 3D принтера, так и для 3D ручек. <br>Бесплатная доставка в пределах кольцевой г. Минска при заказе от 50 руб.",
       "image": "/static/images/pla-turquoise.jpg",
       "color": "бирюзовый",
-      "price": "3,50 руб"
+      "price": "1,90 руб"
     },
 
     "plastic-24": {
@@ -321,7 +288,7 @@
       "description": "PLA пластик используется для 3D печати. <br>Длина 10 м;<br> Диаметр 1,75 мм;<br> Доставка осуществляется в zip-пакете. <br>Подходит как для 3D принтера, так и для 3D ручек. <br>Бесплатная доставка в пределах кольцевой г. Минска при заказе от 50 руб.",
       "image": "/static/images/pla-redpink.jpg",
       "color": "красно-розовый",
-      "price": "3,50 руб"
+      "price": "1,90 руб"
     },
 
 
@@ -404,7 +371,7 @@
       "description": "ABS пластик используется для 3D печати. <br>Длина 10 м;<br> Диаметр 1,75 мм;<br> Доставка осуществляется в zip-пакете. <br>Подходит как для 3D принтера, так и для 3D ручек. <br>Бесплатная доставка в пределах кольцевой г. Минска при заказе от 50 руб.",
       "image": "/static/images/abs-gold.jpg",
       "color": "золотой",
-      "price": "2,50 руб"
+      "price": "1,40 руб"
     },
 
     "plastic-34": {
@@ -413,7 +380,7 @@
       "description": "ABS пластик используется для 3D печати. <br>Длина 10 м;<br> Диаметр 1,75 мм;<br> Доставка осуществляется в zip-пакете. <br>Подходит как для 3D принтера, так и для 3D ручек. <br>Бесплатная доставка в пределах кольцевой г. Минска при заказе от 50 руб.",
       "image": "/static/images/abs-gray.jpg",
       "color": "серый",
-      "price": "2,50 руб"
+      "price": "1,40 руб"
     },
 
     "plastic-35": {
@@ -422,7 +389,7 @@
       "description": "PLA пластик используется для 3D печати. <br>Длина 10 м;<br> Диаметр 1,75 мм;<br> Доставка осуществляется в zip-пакете. <br>Подходит как для 3D принтера, так и для 3D ручек. <br>Бесплатная доставка в пределах кольцевой г. Минска при заказе от 50 руб.",
       "image": "/static/images/pla-red.jpg",
       "color": "красный",
-      "price": "3,50 руб"
+      "price": "1,90 руб"
     },
 
     "plastic-36": {
@@ -431,7 +398,7 @@
       "description": "PLA пластик используется для 3D печати. <br>Длина 10 м;<br> Диаметр 1,75 мм;<br> Доставка осуществляется в zip-пакете. <br>Подходит как для 3D принтера, так и для 3D ручек. <br>Бесплатная доставка в пределах кольцевой г. Минска при заказе от 50 руб.",
       "image": "/static/images/pla-purple.jpg",
       "color": "фиолетовый",
-      "price": "3,50 руб"
+      "price": "1,90 руб"
     },
 
 
@@ -514,7 +481,7 @@
       "description": "ABS пластик используется для 3D печати. <br>Длина 10 м;<br> Диаметр 1,75 мм;<br> Доставка осуществляется в zip-пакете. <br>Подходит как для 3D принтера, так и для 3D ручек. <br>Бесплатная доставка в пределах кольцевой г. Минска при заказе от 50 руб.",
       "image": "/static/images/abs-green.jpg",
       "color": "зеленый",
-      "price": "2,50 руб"
+      "price": "1,40 руб"
     },
 
     "plastic-46": {
@@ -523,7 +490,7 @@
       "description": "ABS пластик используется для 3D печати. <br>Длина 10 м;<br> Диаметр 1,75 мм;<br> Доставка осуществляется в zip-пакете. <br>Подходит как для 3D принтера, так и для 3D ручек. <br>Бесплатная доставка в пределах кольцевой г. Минска при заказе от 50 руб.",
       "image": "/static/images/abs-lime.jpg",
       "color": "салатовый",
-      "price": "2,50 руб"
+      "price": "1,40 руб"
     },
 
     "plastic-47": {
@@ -532,7 +499,7 @@
       "description": "PLA пластик используется для 3D печати. <br>Длина 10 м;<br> Диаметр 1,75 мм;<br> Доставка осуществляется в zip-пакете. <br>Подходит как для 3D принтера, так и для 3D ручек. <br>Бесплатная доставка в пределах кольцевой г. Минска при заказе от 50 руб.",
       "image": "/static/images/pla-pink.jpg",
       "color": "розовый",
-      "price": "3,50 руб"
+      "price": "1,90 руб"
     },
 
     "plastic-48": {
@@ -541,7 +508,7 @@
       "description": "PLA пластик используется для 3D печати. <br>Длина 10 м;<br> Диаметр 1,75 мм;<br> Доставка осуществляется в zip-пакете. <br>Подходит как для 3D принтера, так и для 3D ручек. <br>Бесплатная доставка в пределах кольцевой г. Минска при заказе от 50 руб.",
       "image": "/static/images/pla-orange.jpg",
       "color": "оранжевый",
-      "price": "3,50 руб"
+      "price": "1,90 руб"
     },
 
 
@@ -624,7 +591,7 @@
       "description": "ABS пластик используется для 3D печати. <br>Длина 10 м;<br> Диаметр 1,75 мм;<br> Доставка осуществляется в zip-пакете. <br>Подходит как для 3D принтера, так и для 3D ручек. <br>Бесплатная доставка в пределах кольцевой г. Минска при заказе от 50 руб.",
       "image": "/static/images/abs-natural.jpg",
       "color": "натуральный",
-      "price": "2,50 руб"
+      "price": "1,40 руб"
     },
 
     "plastic-58": {
@@ -633,7 +600,7 @@
       "description": "ABS пластик используется для 3D печати. <br>Длина 10 м;<br> Диаметр 1,75 мм;<br> Доставка осуществляется в zip-пакете. <br>Подходит как для 3D принтера, так и для 3D ручек. <br>Бесплатная доставка в пределах кольцевой г. Минска при заказе от 50 руб.",
       "image": "/static/images/abs-orange.jpg",
       "color": "оранжевый",
-      "price": "2,50 руб"
+      "price": "1,40 руб"
     },
 
     "plastic-59": {
@@ -642,7 +609,7 @@
       "description": "PLA пластик используется для 3D печати. <br>Длина 10 м;<br> Диаметр 1,75 мм;<br> Доставка осуществляется в zip-пакете. <br>Подходит как для 3D принтера, так и для 3D ручек. <br>Бесплатная доставка в пределах кольцевой г. Минска при заказе от 50 руб.",
       "image": "/static/images/pla-green.jpg",
       "color": "зеленый",
-      "price": "3,50 руб"
+      "price": "1,90 руб"
     },
 
     "plastic-60": {
@@ -651,7 +618,7 @@
       "description": "PLA пластик используется для 3D печати. <br>Длина 10 м;<br> Диаметр 1,75 мм;<br> Доставка осуществляется в zip-пакете. <br>Подходит как для 3D принтера, так и для 3D ручек. <br>Бесплатная доставка в пределах кольцевой г. Минска при заказе от 50 руб.",
       "image": "/static/images/pla-gray.jpg",
       "color": "серый",
-      "price": "3,50 руб"
+      "price": "1,90 руб"
     },
 
 
@@ -734,7 +701,7 @@
       "description": "ABS пластик используется для 3D печати. <br>Длина 10 м;<br> Диаметр 1,75 мм;<br> Доставка осуществляется в zip-пакете. <br>Подходит как для 3D принтера, так и для 3D ручек. <br>Бесплатная доставка в пределах кольцевой г. Минска при заказе от 50 руб.",
       "image": "/static/images/abs-pink.jpg",
       "color": "розовый",
-      "price": "2,50 руб"
+      "price": "1,40 руб"
     },
 
     "plastic-70": {
@@ -743,7 +710,7 @@
       "description": "ABS пластик используется для 3D печати. <br>Длина 10 м;<br> Диаметр 1,75 мм;<br> Доставка осуществляется в zip-пакете. <br>Подходит как для 3D принтера, так и для 3D ручек. <br>Бесплатная доставка в пределах кольцевой г. Минска при заказе от 50 руб.",
       "image": "/static/images/abs-pinkfl.jpg",
       "color": "розовый FL",
-      "price": "2,50 руб"
+      "price": "1,40 руб"
     },
 
     "plastic-71": {
@@ -752,7 +719,7 @@
       "description": "PLA пластик используется для 3D печати. <br>Длина 10 м;<br> Диаметр 1,75 мм;<br> Доставка осуществляется в zip-пакете. <br>Подходит как для 3D принтера, так и для 3D ручек. <br>Бесплатная доставка в пределах кольцевой г. Минска при заказе от 50 руб.",
       "image": "/static/images/pla-natural.jpg",
       "color": "натуральный",
-      "price": "3,50 руб"
+      "price": "1,90 руб"
     },
 
     "plastic-72": {
@@ -761,7 +728,7 @@
       "description": "PLA пластик используется для 3D печати. <br>Длина 10 м;<br> Диаметр 1,75 мм;<br> Доставка осуществляется в zip-пакете. <br>Подходит как для 3D принтера, так и для 3D ручек. <br>Бесплатная доставка в пределах кольцевой г. Минска при заказе от 50 руб.",
       "image": "/static/images/pla-darkblue.jpg",
       "color": "синий",
-      "price": "3,50 руб"
+      "price": "1,90 руб"
     },
 
     "plastic-73": {
@@ -843,7 +810,7 @@
       "description": "ABS пластик используется для 3D печати. <br>Длина 10 м;<br> Диаметр 1,75 мм;<br> Доставка осуществляется в zip-пакете. <br>Подходит как для 3D принтера, так и для 3D ручек. <br>Бесплатная доставка в пределах кольцевой г. Минска при заказе от 50 руб.",
       "image": "/static/images/abs-purple.jpg",
       "color": "фиолетовый",
-      "price": "2,50 руб"
+      "price": "1,40 руб"
     },
 
     "plastic-82": {
@@ -852,7 +819,7 @@
       "description": "ABS пластик используется для 3D печати. <br>Длина 10 м;<br> Диаметр 1,75 мм;<br> Доставка осуществляется в zip-пакете. <br>Подходит как для 3D принтера, так и для 3D ручек. <br>Бесплатная доставка в пределах кольцевой г. Минска при заказе от 50 руб.",
       "image": "/static/images/abs-red.jpg",
       "color": "красный",
-      "price": "2,50 руб"
+      "price": "1,40 руб"
     },
 
     "plastic-83": {
@@ -861,7 +828,7 @@
       "description": "PLA пластик используется для 3D печати. <br>Длина 10 м;<br> Диаметр 1,75 мм;<br> Доставка осуществляется в zip-пакете. <br>Подходит как для 3D принтера, так и для 3D ручек. <br>Бесплатная доставка в пределах кольцевой г. Минска при заказе от 50 руб.",
       "image": "/static/images/pla-blue.jpg",
       "color": "голубой",
-      "price": "3,50 руб"
+      "price": "1,90 руб"
     },
 
     "plastic-84": {
@@ -870,7 +837,7 @@
       "description": "PLA пластик используется для 3D печати. <br>Длина 10 м;<br> Диаметр 1,75 мм;<br> Доставка осуществляется в zip-пакете. <br>Подходит как для 3D принтера, так и для 3D ручек. <br>Бесплатная доставка в пределах кольцевой г. Минска при заказе от 50 руб.",
       "image": "/static/images/pla-black.jpg",
       "color": "черный",
-      "price": "3,50 руб"
+      "price": "1,90 руб"
     },
 
    "plastic-85": {
@@ -933,7 +900,7 @@
       "description": "ABS пластик используется для 3D печати. <br>Длина 10 м;<br> Диаметр 1,75 мм;<br> Доставка осуществляется в zip-пакете. <br>Подходит как для 3D принтера, так и для 3D ручек. <br>Бесплатная доставка в пределах кольцевой г. Минска при заказе от 50 руб.",
       "image": "/static/images/abs-turquoise.jpg",
       "color": "бирюзовый",
-      "price": "2,50 руб"
+      "price": "1,40 руб"
     },
 
     "plastic-92": {
@@ -942,7 +909,7 @@
       "description": "ABS пластик используется для 3D печати. <br>Длина 10 м;<br> Диаметр 1,75 мм;<br> Доставка осуществляется в zip-пакете. <br>Подходит как для 3D принтера, так и для 3D ручек. <br>Бесплатная доставка в пределах кольцевой г. Минска при заказе от 50 руб.",
       "image": "/static/images/abs-white.jpg",
       "color": "белый",
-      "price": "2,50 руб"
+      "price": "1,40 руб"
     },
 
     "plastic-93": {
@@ -951,59 +918,303 @@
       "description": "ABS пластик используется для 3D печати. <br>Длина 10 м;<br> Диаметр 1,75 мм;<br> Доставка осуществляется в zip-пакете. <br>Подходит как для 3D принтера, так и для 3D ручек. <br>Бесплатная доставка в пределах кольцевой г. Минска при заказе от 50 руб.",
       "image": "/static/images/abs-yellow.jpg",
       "color": "желтый",
-      "price": "2,50 руб"
+      "price": "1,40 руб"
     }
 
   },
 
   "parts": {
     "part-1": {
-      "title": "запчасть 1",
-      "description_short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
-      "image": "/static/images/printer.jpg",
-      "price": "10,00 руб"
+      "title": "Плата Mega 2560 R3",
+      "description_short": "Материнская плата Arduino",
+      "description": "Материнская плата Arduino Mega 2560 R3 с USB кабелем, 12V",
+      "image": "/static/images/detal1.jpg",
+      "price": "Ожидается поставка"
     },
 
    "part-2":  {
-      "title": "запчасть 2",
-      "description_short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
-      "image": "/static/images/printer.jpg",
-      "price": "10,00 руб"
+      "title": "Плата расширения",
+      "description_short": "Плата расширения MendelPrusa 1.4 REPRAP",
+      "description": "Плата расширения MendelPrusa 1.4 REPRAP",
+      "image": "/static/images/detal2.jpg",
+      "price": "Ожидается поставка"
     },
 
     "part-3": {
-      "title": "запчасть 3",
-      "description_short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
-      "image": "/static/images/printer.jpg",
-      "price": "10,00 руб"
+      "title": "Материнская плата",
+      "description_short": "MKS Gen L V1",
+      "description": "Материнская плата MKS Gen L V1 24V",
+      "image": "/static/images/detal3.jpg",
+      "price": "Ожидается поставка"
     },
 
     "part-4": {
-      "title": "запчасть 4",
-      "description_short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
-      "image": "/static/images/printer.jpg",
-      "price": "10,00 руб"
+      "title": "Драйвер шагового двигателя",
+      "description_short": "Драйвер DRV8825 с радиаторами",
+      "description": "Драйвер шагового двигателя DRV8825 с радиаторами, максимальное напряжение питания 45V",
+      "image": "/static/images/detal4.jpg",
+      "price": "Ожидается поставка"
     },
 
     "part-5": {
-      "title": "запчасть 5",
-      "description_short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
-      "image": "/static/images/printer.jpg",
-      "price": "10,00 руб"
+      "title": "Дисплей",
+      "description_short": "ЖК-дисплей МКS MINI12864LCD",
+      "description": "совместим только с платой контроллера MEGA 2560. Не может работать с MKS sbase, MKS smini и MKS base2.",
+      "image": "/static/images/detal5.jpg",
+      "price": "Ожидается поставка"
     },
 
     "part-6": {
-      "title": "запчасть 6",
-      "description_short": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor",
-      "image": "/static/images/printer.jpg",
-      "price": "10,00 руб"
-    }
+      "title": "Микропереключатель",
+      "description_short": "Микропереключатель 5A",
+      "description": "Микропереключатель 5A",
+      "image": "/static/images/detal6.jpg",
+      "price": "Ожидается поставка"
+    },
+
+    "part-7": {
+      "title": "Механический переключатель",
+      "description_short": "Механический переключатель с кабелем 1A",
+      "description": "Микропереключатель переключатель с кабелем 1A",
+      "image": "/static/images/detal7.jpg",
+      "price": "Ожидается поставка"
+    },
+
+    "part-8": {
+      "title": "Шаговый двигатель",
+      "description_short": "Шаговый двигатель NEMA17 ",
+      "description": "Шаговый двигатель NEMA17 <br>1.7 А; <br>1,8 градуса; <br>40 мм",
+      "image": "/static/images/detal8.jpg",
+      "price": "Ожидается поставка"
+    },
+
+    "part-9": {
+      "title": "Шаговый двигатель",
+      "description_short": "Шаговый двигатель 12V 28byj-48-12",
+      "description": "Шаговый двигатель 12V",
+      "image": "/static/images/detal9.jpg",
+      "price": "Ожидается поставка"
+    },
+
+    "part-10": {
+      "title": "Нагревательный стол",
+      "description_short": "Нагревательный стол 214Х214 ",
+      "description": "Нагревательный стол 214Х214 мм",
+      "image": "/static/images/detal10.jpg",
+      "price": "Ожидается поставка"
+    },
+ 
+    "part-11": {
+      "title": "Термистор",
+      "description_short": "Термистор 100kOm NTC 3950",
+      "description": "Термистор 100kOm NTC 3950",
+      "image": "/static/images/detal11.jpg",
+      "price": "Ожидается поставка"
+    },
+
+    "part-12": {
+      "title": "Нагреватель (ТЕН)",
+      "description_short": "Керамический нагреватель 12V 40W",
+      "description": "Керамический нагреватель <br>12V <br>40W",
+      "image": "/static/images/detal12.jpg",
+      "price": "Ожидается поставка"
+    },
+
+ 
+    "Part-13": {
+      "title": "Нагреватель",
+      "description_short": "КНагреватель 24V 40W",
+      "description": "Керамический нагреватель <br>24V <br>40W",
+      "image": "/static/images/detal12.jpg",
+      "price": "Ожидается поставка"
+    },
+
+ 
+    "part-14": {
+      "title": "Вентилятор",
+      "description_short": "Вентилятор 4020 12V",
+      "description": "Вентилятор 4020 12V",
+      "image": "/static/images/detal13.jpg",
+      "price": "Ожидается поставка"
+    },
+
+    "part-15": {
+      "title": "Вентилятор",
+      "description_short": "Вентилятор 4020 24V",
+      "description": "Вентилятор 4020 24V",
+      "image": "/static/images/detal13.jpg",
+      "price": "Ожидается поставка"
+    },
+
+ 
+    "part-16": {
+      "title": "Вентелятор",
+      "description_short": "Вентилятор 3010 12V",
+      "description": "Вентилятор 3010 12V",
+      "image": "/static/images/detal14.jpg",
+      "price": "Ожидается поставка"
+    },
+
+ 
+    "part-17": {
+      "title": "Вентилятор",
+      "description_short": "Вентилятор 3010 24V",
+      "description": "Вентилятор 3010 24V",
+      "image": "/static/images/detal14.jpg",
+      "price": "Ожидается поставка"
+    },
+ 
+    "part-18": {
+	"title": "Пластиковая накладка на вентилятор",
+      "description_short": "Пластиковая накладка на вентилятор",
+      "description": "Подходит к вентилятору типа 3010 v5 и v6",
+      "image": "/static/images/detal15.jpg",
+      "price": "Ожидается поставка"
+    },
+
+    "part-19": {
+      "title": "Нагревательный блок",
+      "description_short": "Нагревательный блок MK7/MK8r",
+      "description": "Нагревательный блок MK7/MK8 <br>Алюминиевый блок <br>Размеры: 20 мм x 20 мм x 10 мм",
+      "image": "/static/images/detal16.jpg",
+      "price": "Ожидается поставка"
+    },
+
+    "part-20": {
+      "title": "Термобарьер V6",
+      "description_short": "Термобарьер V6 4,1 мм",
+      "description": Горло V6 4,1 мм <br>Материал - нержавеющая сталь",
+      "image": "/static/images/detal17.jpg",
+      "price": "Ожидается поставка"
+    },
+
+    "part-21": {
+      "title": "Радиатор",
+      "description_short": "Радиатор",
+      "description": "Подающая трубка <br> Материал - алюминиевый сплав",
+      "image": "/static/images/detal18.jpg",
+      "price": "Ожидается поставка"
+    },
+
+    "part-22": {
+      "title": "Фитинг",
+      "description_short": "Фитинг PC4 03",
+      "description": "Фитинг PC4 03",
+      "image": "/static/images/detal19.jpg",
+      "price": "Ожидается поставка"
+    },
+
+    "part-23": {
+      "title": "Трубка",
+      "description_short": "Тефлоновая трубка",
+      "description": "Тефлоновая трубка",
+      "image": "/static/images/detal20.jpg",
+      "price": "Ожидается поставка"
+    },
+
+    "part-24": {
+      "title": "Шестерня",
+      "description_short": "Шестерня MK7",
+      "description": "Шестерня MK7",
+      "image": "/static/images/detal21.jpg",
+      "price": "Ожидается поставка"
+    },
+
+    "part-25": {
+      "title": "Шестерня",
+      "description_short": "Шестерня MK8",
+      "description": "Шестерня MK8",
+      "image": "/static/images/detal22.jpg",
+      "price": "Ожидается поставка"
+    },
+
+    "part-26": {
+      "title": "Сопло",
+      "description_short": "В ассортименте",
+      "description": "Сопло в ассортименте <br>Размеры:0.2 мм, 0.25 мм, 0.3 мм, 0.4 мм, 0.5 мм, 0.6 мм, 0.8 мм. <br>Материал:Латунь <br>1.75 мм",
+      "image": "/static/images/detal23.jpg",
+      "price": "Ожидается поставка"
+    },
+
+    "part-27": {
+      "title": "Шкив",
+      "description_short": "Шкив на двигатель gt2 20 зубов",
+      "description": "Шкив на двигатель gt2 <br>20 зубов <br>Ширина ремня - 6 мм <br>Внутренний диаметр - 5 мм <br>Внешний диаметр - 16 мм",
+      "image": "/static/images/detal24.jpg",
+      "price": "Ожидается поставка"
+    },
+
+    "part-28": {
+      "title": "Ролик натяжной",
+      "description_short": "Ролик натяжной gt2 20 зубов",
+      "description": "Ролик натяжной gt2 20 зубов <br>Ширина ремня - 6 мм <br>Внутренний диаметр - 5 мм <br>Внешний диаметр - 18 мм",
+      "image": "/static/images/detal25.jpg",
+      "price": "Ожидается поставка"
+    },
+
+    "part-29": {
+      "title": "Подшипник",
+      "description_short": "Подшипник 623ZZ",
+      "description": "Подшипник 623ZZ",
+      "image": "/static/images/detal26.jpg",
+      "price": "Ожидается поставка"
+    },
+
+    "part-30": {
+      "title": "Зубчатый ремень gt2",
+      "description_short": "Зубчатый ремень gt2 6мм",
+      "description": "Зубчатый ремень gt2 6мм <br>2 метра",
+      "image": "/static/images/detal27.jpg",
+      "price": "Ожидается поставка"
+    },
+
+    "part-31": {
+      "title": "Винт",
+      "description_short": "Винт ходовой четырехзаходный 8 мм",
+      "description": "Винт ходовой четырехзаходный 8 мм <br>Длина 300",
+      "image": "/static/images/detal28.jpg",
+      "price": "Ожидается поставка"
+    },
+
+    "part-32": {
+      "title": "Гайка",
+      "description_short": "Гайка ходовая четырехзаходная",
+      "description": "Гайка ходовая четырехзаходная 8 мм",
+      "image": "/static/images/detal29.jpg",
+      "price": "Ожидается поставка"
+    },
+
+    "part-33": {
+      "title": "Ролик",
+      "description_short": "Ролик с пластиковой накладкой",
+      "description": "Ролик с пластиковой накладкой <br>5 мм x 21.5 мм x 7 мм",
+      "image": "/static/images/detal30.jpg",
+      "price": "Ожидается поставка"
+    },
+
+	"part-34": {
+      "title": "Стальной шар",
+      "description_short": "Стальной шар для дельта принтера",
+      "description": "Бусина из нержавеющей стали 10 мм x 4 мм",
+      "image": "/static/images/detal31.jpg",
+      "price": "Ожидается поставка"
+    },
+
+    "part-35": {
+      "title": "Гайка",
+      "description_short": "Т-образная гайка M5",
+      "description": "Т-образная гайка M5",
+      "image": "/static/images/detal32.jpg",
+      "price": "Ожидается поставка"
+    },
+
+    "part-35": {
+      "title": "Пружина",
+      "description_short": "Пружина 15 мм",
+      "description": "Диаметр проволоки 1.0 мм <br>Внешний диаметр 6 мм <br>Длина 15 мм",
+      "image": "/static/images/detal33.jpg",
+      "price": "Ожидается поставка"
+    },
   },
 
   "services": {

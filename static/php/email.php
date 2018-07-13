@@ -3,7 +3,7 @@
     header('Location: /');
   }
 
-  $sendto   = "radius486@gmail.com";
+  $sendto   = "3ddoma.by@gmail.com";
   $customername = $_POST['name'];
   $customerphone = $_POST['phone'];
   $sendfrom = "inovatech";
