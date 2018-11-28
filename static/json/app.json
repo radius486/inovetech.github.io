@@ -931,7 +931,7 @@
       "description_short": "Материнская плата Arduino",
       "description": "Материнская плата Arduino Mega 2560 R3 с USB кабелем, 12V",
       "image": "/static/images/parts/detal1.jpg",
-      "price": "Ожидается поставка"
+      "price": "42,00"
     },
 
    "part-2":  {
@@ -939,7 +939,7 @@
       "description_short": "Плата расширения MendelPrusa 1.4 REPRAP",
       "description": "Плата расширения MendelPrusa 1.4 REPRAP",
       "image": "/static/images/parts/detal2.jpg",
-      "price": "Ожидается поставка"
+      "price": "25,00"
     },
 
     "part-3": {
@@ -947,7 +947,7 @@
       "description_short": "MKS Gen L V1",
       "description": "Материнская плата MKS Gen L V1 24V",
       "image": "/static/images/parts/detal3.jpg",
-      "price": "Ожидается поставка"
+      "price": "90,00"
     },
 
     "part-4": {
@@ -955,7 +955,7 @@
       "description_short": "Драйвер DRV8825 с радиаторами",
       "description": "Драйвер шагового двигателя DRV8825 с радиаторами, максимальное напряжение питания 45V",
       "image": "/static/images/parts/detal4.jpg",
-      "price": "Ожидается поставка"
+      "price": "9,00"
     },
 
     "part-5": {
@@ -963,7 +963,7 @@
       "description_short": "ЖК-дисплей МКS MINI12864LCD",
       "description": "совместим только с платой контроллера MEGA 2560. Не может работать с MKS sbase, MKS smini и MKS base2.",
       "image": "/static/images/parts/detal5.jpg",
-      "price": "Ожидается поставка"
+      "price": "57,00"
     },
 
     "part-6": {
@@ -971,7 +971,7 @@
       "description_short": "Микропереключатель 5A",
       "description": "Микропереключатель 5A",
       "image": "/static/images/parts/detal6.jpg",
-      "price": "Ожидается поставка"
+      "price": "3,00"
     },
 
     "part-7": {
@@ -979,7 +979,7 @@
       "description_short": "Механический переключатель с кабелем 1A",
       "description": "Микропереключатель переключатель с кабелем 1A",
       "image": "/static/images/parts/detal7.jpg",
-      "price": "Ожидается поставка"
+      "price": "5,00"
     },
 
     "part-8": {
@@ -987,7 +987,15 @@
       "description_short": "Шаговый двигатель NEMA17 ",
       "description": "Шаговый двигатель NEMA17 <br>1.7 А; <br>1,8 градуса; <br>40 мм",
       "image": "/static/images/parts/detal8.jpg",
-      "price": "Ожидается поставка"
+      "price": "47,00"
+    },
+
+    "part-88": {
+      "title": "Шаговый двигатель Б/У",
+      "description_short": "Шаговый двигатель NEMA17 Б/У",
+      "description": "Шаговый двигатель NEMA17 <br>1.7 А; <br>1,8 градуса; <br>40 мм",
+      "image": "/static/images/parts/detal8.jpg",
+      "price": "17,00"
     },
 
     "part-9": {
@@ -995,7 +1003,7 @@
       "description_short": "Шаговый двигатель 12V 28byj-48-12",
       "description": "Шаговый двигатель 12V",
       "image": "/static/images/parts/detal9.jpg",
-      "price": "Ожидается поставка"
+      "price": "9,00"
     },
 
     "part-10": {
@@ -1003,7 +1011,7 @@
       "description_short": "Нагревательный стол 214Х214 ",
       "description": "Нагревательный стол 214Х214 мм",
       "image": "/static/images/parts/detal10.jpg",
-      "price": "Ожидается поставка"
+      "price": "40,00"
     },
 
     "part-11": {
@@ -1011,7 +1019,7 @@
       "description_short": "Термистор 100kOm NTC 3950",
       "description": "Термистор 100kOm NTC 3950",
       "image": "/static/images/parts/detal11.jpg",
-      "price": "Ожидается поставка"
+      "price": "2,00"
     },
 
     "part-12": {
@@ -1019,7 +1027,7 @@
       "description_short": "Керамический нагреватель 12V 40W",
       "description": "Керамический нагреватель <br>12V <br>40W",
       "image": "/static/images/parts/detal12.jpg",
-      "price": "Ожидается поставка"
+      "price": "6,00"
     },
 
     "Part-13": {
@@ -1027,7 +1035,7 @@
       "description_short": "КНагреватель 24V 40W",
       "description": "Керамический нагреватель <br>24V <br>40W",
       "image": "/static/images/parts/detal12.jpg",
-      "price": "Ожидается поставка"
+      "price": "6,00"
     },
 
     "part-14": {
@@ -1035,7 +1043,7 @@
       "description_short": "Вентилятор 4020 12V",
       "description": "Вентилятор 4020 12V",
       "image": "/static/images/parts/detal13.jpg",
-      "price": "Ожидается поставка"
+      "price": "5,00"
     },
 
     "part-15": {
@@ -1043,7 +1051,7 @@
       "description_short": "Вентилятор 4020 24V",
       "description": "Вентилятор 4020 24V",
       "image": "/static/images/parts/detal13.jpg",
-      "price": "Ожидается поставка"
+      "price": "5,00"
     },
 
     "part-16": {
@@ -1051,7 +1059,7 @@
       "description_short": "Вентилятор 3010 12V",
       "description": "Вентилятор 3010 12V",
       "image": "/static/images/parts/detal14.jpg",
-      "price": "Ожидается поставка"
+      "price": "5,00"
     },
 
     "part-17": {
@@ -1059,7 +1067,7 @@
       "description_short": "Вентилятор 3010 24V",
       "description": "Вентилятор 3010 24V",
       "image": "/static/images/parts/detal14.jpg",
-      "price": "Ожидается поставка"
+      "price": "5,00"
     },
 
     "part-18": {
@@ -1067,7 +1075,7 @@
       "description_short": "Пластиковая накладка на вентилятор",
       "description": "Подходит к вентилятору типа 3010 v5 и v6",
       "image": "/static/images/parts/detal15.jpg",
-      "price": "Ожидается поставка"
+      "price": "3,00"
     },
 
     "part-19": {
@@ -1075,7 +1083,7 @@
       "description_short": "Нагревательный блок MK7/MK8r",
       "description": "Нагревательный блок MK7/MK8 <br>Алюминиевый блок <br>Размеры: 20 мм x 20 мм x 10 мм",
       "image": "/static/images/parts/detal16.jpg",
-      "price": "Ожидается поставка"
+      "price": "4,00"
     },
 
     "part-20": {
@@ -1083,7 +1091,7 @@
       "description_short": "Термобарьер V6 4,1 мм",
       "description": "Горло V6 4,1 мм <br>Материал - нержавеющая сталь",
       "image": "/static/images/parts/detal17.jpg",
-      "price": "Ожидается поставка"
+      "price": "4,00"
     },
 
     "part-21": {
@@ -1091,7 +1099,7 @@
       "description_short": "Радиатор",
       "description": "Подающая трубка <br> Материал - алюминиевый сплав",
       "image": "/static/images/parts/detal18.jpg",
-      "price": "Ожидается поставка"
+      "price": "9,00"
     },
 
     "part-22": {
@@ -1099,7 +1107,7 @@
       "description_short": "Фитинг PC4 03",
       "description": "Фитинг PC4 03",
       "image": "/static/images/parts/detal19.jpg",
-      "price": "Ожидается поставка"
+      "price": "4,00"
     },
 
     "part-23": {
@@ -1107,7 +1115,7 @@
       "description_short": "Тефлоновая трубка",
       "description": "Тефлоновая трубка",
       "image": "/static/images/parts/detal20.jpg",
-      "price": "Ожидается поставка"
+      "price": "8,00"
     },
 
     "part-24": {
@@ -1115,7 +1123,7 @@
       "description_short": "Шестерня MK7",
       "description": "Шестерня MK7",
       "image": "/static/images/parts/detal21.jpg",
-      "price": "Ожидается поставка"
+      "price": "7,00"
     },
 
     "part-25": {
@@ -1123,7 +1131,7 @@
       "description_short": "Шестерня MK8",
       "description": "Шестерня MK8",
       "image": "/static/images/parts/detal22.jpg",
-      "price": "Ожидается поставка"
+      "price": "5,00"
     },
 
     "part-26": {
@@ -1131,7 +1139,7 @@
       "description_short": "В ассортименте",
       "description": "Сопло в ассортименте <br>Размеры:0.2 мм, 0.25 мм, 0.3 мм, 0.4 мм, 0.5 мм, 0.6 мм, 0.8 мм. <br>Материал:Латунь <br>1.75 мм",
       "image": "/static/images/parts/detal23.jpg",
-      "price": "Ожидается поставка"
+      "price": "5,00"
     },
 
     "part-27": {
@@ -1139,7 +1147,7 @@
       "description_short": "Шкив на двигатель gt2 20 зубов",
       "description": "Шкив на двигатель gt2 <br>20 зубов <br>Ширина ремня - 6 мм <br>Внутренний диаметр - 5 мм <br>Внешний диаметр - 16 мм",
       "image": "/static/images/parts/detal24.jpg",
-      "price": "Ожидается поставка"
+      "price": "5,00"
     },
 
     "part-28": {
@@ -1147,7 +1155,7 @@
       "description_short": "Ролик натяжной gt2 20 зубов",
       "description": "Ролик натяжной gt2 20 зубов <br>Ширина ремня - 6 мм <br>Внутренний диаметр - 5 мм <br>Внешний диаметр - 18 мм",
       "image": "/static/images/parts/detal25.jpg",
-      "price": "Ожидается поставка"
+      "price": "6,00"
     },
 
     "part-29": {
@@ -1155,7 +1163,7 @@
       "description_short": "Подшипник 623ZZ",
       "description": "Подшипник 623ZZ",
       "image": "/static/images/parts/detal26.jpg",
-      "price": "Ожидается поставка"
+      "price": "2,00"
     },
 
     "part-30": {
@@ -1163,7 +1171,7 @@
       "description_short": "Зубчатый ремень gt2 6мм",
       "description": "Зубчатый ремень gt2 6мм <br>2 метра",
       "image": "/static/images/parts/detal27.jpg",
-      "price": "Ожидается поставка"
+      "price": "6,00"
     },
 
     "part-31": {
@@ -1171,7 +1179,7 @@
       "description_short": "Винт ходовой четырехзаходный 8 мм",
       "description": "Винт ходовой четырехзаходный 8 мм <br>Длина 300",
       "image": "/static/images/parts/detal28.jpg",
-      "price": "Ожидается поставка"
+      "price": "10,00"
     },
 
     "part-32": {
@@ -1179,7 +1187,7 @@
       "description_short": "Гайка ходовая четырехзаходная",
       "description": "Гайка ходовая четырехзаходная 8 мм",
       "image": "/static/images/parts/detal29.jpg",
-      "price": "Ожидается поставка"
+      "price": "6,00"
     },
 
     "part-33": {
@@ -1187,15 +1195,15 @@
       "description_short": "Ролик с пластиковой накладкой",
       "description": "Ролик с пластиковой накладкой <br>5 мм x 21.5 мм x 7 мм",
       "image": "/static/images/parts/detal30.jpg",
-      "price": "Ожидается поставка"
+      "price": "4,00"
     },
 
     "part-34": {
       "title": "Стальной шар",
-      "description_short": "Стальной шар для дельта принтера",
-      "description": "Бусина из нержавеющей стали 10 мм x 4 мм",
+      "description_short": "Стальной для kossel delta 3d printer",
+      "description": "Стальной для kossel delta 3d printer из нержавеющей стали 10 мм x 4 мм",
       "image": "/static/images/parts/detal31.jpg",
-      "price": "Ожидается поставка"
+      "price": "3,00"
     },
 
     "part-35": {
@@ -1203,7 +1211,7 @@
       "description_short": "Т-образная гайка M5",
       "description": "Т-образная гайка M5",
       "image": "/static/images/parts/detal32.jpg",
-      "price": "Ожидается поставка"
+      "price": "1,50"
     },
 
     "part-36": {
@@ -1211,7 +1219,7 @@
       "description_short": "Пружина 15 мм",
       "description": "Диаметр проволоки 1.0 мм <br>Внешний диаметр 6 мм <br>Длина 15 мм",
       "image": "/static/images/parts/detal33.jpg",
-      "price": "Ожидается поставка"
+      "price": "1,00"
     }
   },
 
